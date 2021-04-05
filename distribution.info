@@ -1,0 +1,7 @@
+[Distribution]
+Name=Manjaro Deepin Edition
+WebsiteName=manjaro.org
+Website=https://www.manjaro.org
+Logo=/usr/share/pixmaps/manjaro-deepin.svg
+LogoLight=/usr/share/pixmaps/manjaro-deepin.svg
+LogoTransparent=/usr/share/pixmaps/manjaro-deepin.svg
